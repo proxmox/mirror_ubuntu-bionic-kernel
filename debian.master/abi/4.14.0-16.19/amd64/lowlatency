@@ -7572,6 +7572,7 @@ EXPORT_SYMBOL vmlinux 0x00000000	cpu_rmap_add
 EXPORT_SYMBOL vmlinux 0x00000000	cpu_rmap_put
 EXPORT_SYMBOL vmlinux 0x00000000	cpu_rmap_update
 EXPORT_SYMBOL vmlinux 0x00000000	cpu_sibling_map
+EXPORT_SYMBOL vmlinux 0x00000000	cpu_tlbstate
 EXPORT_SYMBOL vmlinux 0x00000000	cpu_tss_rw
 EXPORT_SYMBOL vmlinux 0x00000000	cpufreq_generic_suspend
 EXPORT_SYMBOL vmlinux 0x00000000	cpufreq_get
@@ -18697,7 +18698,6 @@ EXPORT_SYMBOL_GPL vmlinux 0x00000000	cpu_hotplug_disable
 EXPORT_SYMBOL_GPL vmlinux 0x00000000	cpu_hotplug_enable
 EXPORT_SYMBOL_GPL vmlinux 0x00000000	cpu_is_hotpluggable
 EXPORT_SYMBOL_GPL vmlinux 0x00000000	cpu_subsys
-EXPORT_SYMBOL_GPL vmlinux 0x00000000	cpu_tlbstate
 EXPORT_SYMBOL_GPL vmlinux 0x00000000	cpu_up
 EXPORT_SYMBOL_GPL vmlinux 0x00000000	cpuacct_cgrp_subsys_enabled_key
 EXPORT_SYMBOL_GPL vmlinux 0x00000000	cpuacct_cgrp_subsys_on_dfl_key
