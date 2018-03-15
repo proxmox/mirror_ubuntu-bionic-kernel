@@ -1,12 +1,13 @@
-linux-raspi2 (4.15.0-1004.4) bionic; urgency=medium
+linux-raspi2 (4.15.0-1004.5) bionic; urgency=medium
 
   * linux-raspi2: 4.15.0-1004.4 -proposed tracker (LP: #1755842)
 
   * Miscellaneous Ubuntu changes
     - SAUCE: Remove execute permissions from source files
     - [Packaging] Refresh raspi2 packaging with changes from master
+    - [Packaging] skip cloud tools packaging when not building package
 
- -- Seth Forshee <seth.forshee@canonical.com>  Thu, 15 Mar 2018 07:11:10 -0500
+ -- Seth Forshee <seth.forshee@canonical.com>  Thu, 15 Mar 2018 13:12:38 -0500
 
 linux-raspi2 (4.15.0-1003.3) bionic; urgency=medium
 
