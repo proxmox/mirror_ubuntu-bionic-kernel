@@ -80,6 +80,8 @@ firmware:       brcm/brcmfmac43455-sdio.bin
 firmware:       brcm/brcmfmac4354-sdio.bin
 firmware:       brcm/brcmfmac4356-sdio.bin
 firmware:       brcm/brcmfmac43569.bin
+firmware:       brcm/brcmfmac4373-sdio.bin
+firmware:       brcm/brcmfmac4373.bin
 firmware:       carl9170-1.fw
 firmware:       cmmb_ming_app.inp
 firmware:       cmmb_vega_12mhz.inp
